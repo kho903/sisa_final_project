@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java / Gradle
+.gradle/
+build/
+out/
+*.class
+
+# React / Node.js
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
